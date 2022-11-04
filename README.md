@@ -1,2 +1,3 @@
-# super-resolution-tutorial
-Super resolution Image Processing
+# Super Resolution
+
+Super resolution with SRGAN and EDSR
